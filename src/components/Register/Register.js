@@ -8,7 +8,7 @@ const Register = () => {
             <form >
                 <input type="email" />
                 <br />
-                <input type="radio" name="" id="" />
+                <input type="password" />
                 <br />
                 <input type="submit" value="Submit" />
             </form>
